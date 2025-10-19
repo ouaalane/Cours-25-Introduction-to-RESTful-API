@@ -1,0 +1,17 @@
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\bin\Debug\OutlookEmailSender.exe.config
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\bin\Debug\OutlookEmailSender.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\bin\Debug\OutlookEmailSender.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.csproj.ResolveComReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\09 OutlookEmailSender\OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\bin\Debug\OutlookEmailSender.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\bin\Debug\OutlookEmailSender.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\bin\Debug\OutlookEmailSender.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.csproj.ResolveComReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\10-OutlookEmailSender\OutlookEmailSender\obj\Debug\OutlookEmailSender.pdb

@@ -1,0 +1,8 @@
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\obj\Debug\7- Example List Processes List.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\obj\Debug\7- Example List Processes List.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\bin\Debug\7- Example List Processes List.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\bin\Debug\7- Example List Processes List.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\bin\Debug\7- Example List Processes List.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\obj\Debug\7- Example List Processes List.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\obj\Debug\7- Example List Processes List.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\7- Example List Processes List\obj\Debug\7- Example List Processes List.exe.config

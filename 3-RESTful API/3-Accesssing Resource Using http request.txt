@@ -1,0 +1,34 @@
+Accessing Resources using HTTP Request
+To access a resource, the client sends an HTTP request to the server. Client requests include four principal parts:
+
+HTTP method
+Endpoint
+Header
+Body
+
+
+HTTP method. This details what should happen to the specified resource. The four fundamental HTTP methods are known as verbs. They are 
+POST to create a new resource.
+GET to retrieve an existing resource.
+PUT to update or change an existing resource.
+DELETE to delete a resource.
+As the table below shows, these HTTP verbs correspond to the Create, Retrieve, Update, and Delete methods or actions, which are referred to as CRUD.
+
+
+
+
+
+
+
+Endpoint: The endpoint shows where the resource is located. It typically includes a Uniform Resource Identifier (URI). If the resource is accessed through the internet, the URI can be a URL that provides a web address for the resource.
+Header: A header has the details needed to execute the call and handle the response. A request header might include authentication data, an encryption key, more details about the server location or access information and details about the desired data format needed for the response.
+Body: The body of a request or response in a RESTful API serves the purpose of carrying the data between the client and the server.
+Sending Data to the Server:
+POST Method: When creating a new resource, the client includes the necessary data in the body of the request. For example, when adding a new user to a database, the user details (like name, email, and password) are sent in the request body.
+PUT Method: When updating an existing resource, the client includes the updated data in the body of the request. For instance, when changing a user's email address, the new email address is sent in the request body.
+Receiving Data from the Server: Response Body, When the server responds to a client request, it often includes the requested data in the body of the response. For example, after a successful GET request to retrieve user details, the server sends the user's information in the response body.
+
+
+The server-side hosting the API processes the call and forms a response. When data is requested, the server sends a machine-readable representation of the requested data that the client then processes. Usually, response details include any information needed to interpret the response, such as whether the data is in Extensible Markup Language (XML), JavaScript Object Notation (JSON) or plain text format. The server provides additional data, such as error codes and time stamps, or other instructions for the client.
+
+In short, calls and responses are self-descriptive. This means calls and responses will include information on how to process and interpret them.

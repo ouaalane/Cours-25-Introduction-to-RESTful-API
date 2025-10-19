@@ -1,0 +1,73 @@
+HTTP status codes:
+HTTP status codes in RESTful APIs indicate the result of a client's request to a server. These codes help the client understand whether the request was successful, encountered an error, or requires additional actions.
+
+HTTP status codes in the response indicate the result of the request:
+
+200 OK: The request was successful.
+201 Created: A resource was successfully created (typically in response to a POST request).
+204 No Content: The request was successful but there is no content to return.
+400 Bad Request: The request was malformed or invalid.
+401 Unauthorized: Authentication is required.
+404 Not Found: The requested resource does not exist.
+500 Internal Server Error: The server encountered an unexpected condition.
+
+Here’s a detailed look at the most commonly used HTTP status codes in the context of RESTful APIs:
+
+1. 2xx: Success
+These status codes indicate that the client's request was successfully received, understood, and accepted by the server.
+
+200 OK:
+The request has succeeded. The information returned with the response is dependent on the method used in the request (e.g., GET, POST, PUT).
+Example: Successfully retrieved a resource or list of resources with a GET request.
+201 Created:
+The request has been fulfilled, resulting in the creation of a new resource. This is typically used in response to POST requests.
+Example: Successfully created a new user in the database.
+204 No Content:
+The server successfully processed the request, but is not returning any content. This is often used for DELETE requests.
+Example: Successfully deleted a resource.
+2. 3xx: Redirection
+These status codes indicate that further action is needed to complete the request.
+
+301 Moved Permanently:
+The resource requested has been permanently moved to a new URI. This is used in redirection.
+Example: The endpoint for a resource has changed permanently.
+302 Found:
+The resource requested is temporarily under a different URI. The client should continue to use the original URI for future requests.
+Example: Temporary redirection to another endpoint.
+3. 4xx: Client Errors
+These status codes indicate that the request contains bad syntax or cannot be fulfilled by the server.
+
+400 Bad Request:
+The server cannot or will not process the request due to an apparent client error (e.g., malformed request syntax, invalid request message framing, or deceptive request routing).
+Example: Missing required parameters in the request body.
+401 Unauthorized:
+The request requires user authentication. This status is used when authentication is required and has failed or has not yet been provided.
+Example: Accessing a protected resource without proper authentication credentials.
+403 Forbidden:
+The server understood the request, but refuses to authorize it.
+Example: Attempting to access a resource that the user does not have permission to access.
+404 Not Found:
+The requested resource could not be found on the server.
+Example: Trying to retrieve a non-existent resource.
+405 Method Not Allowed:
+The method specified in the request is not allowed for the resource identified by the URI.
+Example: Using POST instead of GET for a specific endpoint.
+409 Conflict:
+The request could not be processed because of a conflict in the request, such as an edit conflict between multiple simultaneous updates.
+Example: Trying to create a resource that already exists.
+4. 5xx: Server Errors
+These status codes indicate that the server failed to fulfill a valid request.
+
+500 Internal Server Error:
+The server encountered an unexpected condition that prevented it from fulfilling the request.
+Example: An unhandled exception on the server side.
+501 Not Implemented:
+The server does not support the functionality required to fulfill the request.
+Example: The requested HTTP method is not supported by the server.
+502 Bad Gateway:
+The server, while acting as a gateway or proxy, received an invalid response from an inbound server.
+Example: A proxy server received an invalid response from an upstream server.
+503 Service Unavailable:
+The server is currently unavailable (because it is overloaded or down for maintenance).
+Example: The server is temporarily unable to handle the request.
+Understanding and properly utilizing HTTP status codes in RESTful APIs helps in building robust and user-friendly APIs, ensuring clear communication between the client and server.

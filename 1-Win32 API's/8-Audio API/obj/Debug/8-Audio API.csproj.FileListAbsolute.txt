@@ -1,0 +1,29 @@
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\8-Audio API.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\8-Audio API.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\8-Audio API.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Asio.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Core.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Midi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Wasapi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.WinForms.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.WinMM.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\System.Security.AccessControl.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\System.Security.Principal.Windows.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Asio.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Core.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Midi.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.Wasapi.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.WinForms.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\NAudio.WinMM.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\System.Security.AccessControl.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\bin\Debug\System.Security.Principal.Windows.xml
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\obj\Debug\8-Audio API.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\obj\Debug\8-Audio API.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\obj\Debug\8-Audio .28DD9386.Up2Date
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\obj\Debug\8-Audio API.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\obj\Debug\8-Audio API.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\8-Audio API\obj\Debug\8-Audio API.exe.config

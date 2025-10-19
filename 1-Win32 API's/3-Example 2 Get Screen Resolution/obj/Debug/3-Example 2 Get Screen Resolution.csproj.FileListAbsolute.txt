@@ -1,0 +1,8 @@
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\bin\Debug\3-Example 2 Get Screen Resolution.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\bin\Debug\3-Example 2 Get Screen Resolution.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\bin\Debug\3-Example 2 Get Screen Resolution.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\obj\Debug\3-Example 2 Get Screen Resolution.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\obj\Debug\3-Example 2 Get Screen Resolution.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\obj\Debug\3-Example 2 Get Screen Resolution.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\obj\Debug\3-Example 2 Get Screen Resolution.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\3-Example 2 Get Screen Resolution\obj\Debug\3-Example 2 Get Screen Resolution.exe.config

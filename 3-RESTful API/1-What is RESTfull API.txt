@@ -1,0 +1,17 @@
+What is RESTful API?
+A RESTful API (Representational State Transfer Application Programming Interface) is a set of rules and conventions for building and interacting with web services. It leverages standard HTTP methods and principles to create a uniform and efficient way of communication between client and server applications.
+An API is code that lets two software programs communicate with one another. The API's design spells out the proper way for a developer to write a program, or the client, that uses the API to request services from another application, or the server. APIs have become a vital mechanism for software interoperability.
+A RESTful API is an architectural style for an application programming interface that uses HTTP requests to access and use data.
+RESTful APIs are also referred to as RESTful web services and REST APIs. They're based on representational state transfer, an architectural style and approach to communications often used in web services development. This approach can also facilitate communication between other application types.
+REST technology is generally preferred over other similar technologies. this is because REST uses less bandwidth, making it more efficient in internet use. RESTful APIs can also be built with common programming languages such as C#, PHP, JavaScript and Python.
+REST browsers are thought of as the language of the internet. Cloud consumers use APIs to expose and organize access to web services. REST is a logical choice for building APIs to provide users with ways to flexibly connect to, manage and interact with cloud services in distributed environments.
+Sites such as Amazon, Google, LinkedIn and Twitter use RESTful APIs.
+REST stands for Representational State Transfer. It is an architectural style for designing networked applications. REST relies on a stateless, client-server, cacheable communications protocol -- the HTTP protocol is typically used. Here’s a breakdown of its key components:
+
+Representational: The server sends back a representation of the state of the resource. This representation can be in various formats, such as JSON, XML, or HTML.
+State: The state of a resource is captured in the representation returned by the server. Each request from a client to a server must contain all the information needed to understand and process the request (statelessness).
+Transfer: Data transfer happens between the client and server using standard operations (HTTP methods such as GET, POST, PUT, DELETE, etc.).
+These principles ensure that web services can be designed in a way that is scalable, performant, and easy to manage.
+
+Conclusion
+A RESTful API is a powerful tool for building web services that are easy to use and understand. By adhering to REST principles and using standard HTTP methods, developers can create scalable and maintainable APIs that facilitate communication between different components of a web application.

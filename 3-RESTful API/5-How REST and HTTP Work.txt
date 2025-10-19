@@ -1,0 +1,25 @@
+How REST and HTTP Work?
+HTTP (Hypertext Transfer Protocol) is a foundational protocol used in REST (Representational State Transfer) APIs. REST is an architectural style for designing networked applications and relies on a stateless, client-server communication protocol, which is typically HTTP.
+
+Here’s a breakdown of how HTTP works in REST APIs:
+
+Basic Concepts
+Client-Server Architecture: In REST, the client sends requests to the server, and the server responds. The client is responsible for the user interface and user experience, while the server handles data storage and processing.
+Statelessness: Each request from the client to the server must contain all the information needed to understand and process the request. The server does not store any state about the client session. This means that each request is independent of others.
+Resources and URIs: In REST, resources (data or services) are identified by URIs (Uniform Resource Identifiers). Each resource can be retrieved or manipulated using its URI.
+HTTP Methods: REST APIs use standard HTTP methods to perform operations on resources. The main HTTP methods are:
+GET: Retrieve a resource.
+POST: Create a new resource.
+PUT: Update an existing resource.
+DELETE: Delete a resource.
+HTTP Status Codes: These codes indicate the result of the HTTP request. Common status codes include:
+200 OK: The request was successful.
+201 Created: A resource was successfully created.
+204 No Content: The request was successful, but there is no content to return.
+400 Bad Request: The request was invalid or cannot be otherwise served.
+404 Not Found: The requested resource was not found.
+500 Internal Server Error: An error occurred on the server side.
+How It Works
+Client Request: The client sends an HTTP request to the server. The request includes.
+Server Processing: The server receives the request, processes it, and performs the necessary operations on the resource. The server may interact with a database, perform business logic, or execute other actions required to fulfill the request.
+Server Response: After processing the request, the server sends an HTTP response back to the client.

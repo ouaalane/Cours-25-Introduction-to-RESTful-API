@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\1-Win32 API\u0027s\\7- Example List Processes List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09AA74A7-4654-40C6-80F6-896A69A1E4A7}|7- Example List Processes List.csproj|c:\\programming advice\\cours-25-introduction to restful api\\1-win32 api\u0027s\\7- example list processes list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AA74A7-4654-40C6-80F6-896A69A1E4A7}|7- Example List Processes List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\1-Win32 API\u0027s\\RunningProcesses\\RunningProcesses\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\1-Win32 API\u0027s\\RunningProcesses\\RunningProcesses\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RunningProcesses\\RunningProcesses\\Program.cs",
+              "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\1-Win32 API\u0027s\\RunningProcesses\\RunningProcesses\\Program.cs",
+              "RelativeToolTip": "..\\RunningProcesses\\RunningProcesses\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:52:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\1-Win32 API\u0027s\\7- Example List Processes List\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\1-Win32 API\u0027s\\7- Example List Processes List\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:39:46.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

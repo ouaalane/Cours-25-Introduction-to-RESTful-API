@@ -1,0 +1,17 @@
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\bin\Debug\WordDocumentCreator.exe.config
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\bin\Debug\WordDocumentCreator.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\bin\Debug\WordDocumentCreator.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.ResolveComReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\00 Windows APIs\10 WordDocumentCreator\WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\bin\Debug\WordDocumentCreator.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\bin\Debug\WordDocumentCreator.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\bin\Debug\WordDocumentCreator.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.ResolveComReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\11-WordDocumentCreator\WordDocumentCreator\obj\Debug\WordDocumentCreator.pdb

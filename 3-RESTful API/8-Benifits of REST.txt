@@ -1,0 +1,9 @@
+REST APIs have gained enormous popularity due to the numerous benefits available to developers and organizations, including the following:
+
+Simplicity. REST APIs use common HTTP methods, including GET, PUT, POST and DELETE requests, making them easy to design, implement and use.
+Independence. Developers enjoy platform independence because they can use almost any programming language to create REST APIs. They work with various client devices, such as traditional web browsers, mobile devices and internet-of-things devices.
+Flexible. REST APIs support many different data formats, including JSON, XML and plain text. Developers can choose the data format that best suits client needs and available server-side data.
+Scalable. The stateless nature of REST APIs supports horizontal scaling, where many API calls run in parallel to handle significant API call loads.
+Cacheable. REST APIs support caching, allowing data to be stored in local memory. This approach can speed server-side response time, potentially improving API performance. It might even eliminate the need for an API call if required data is already on the client from a prior call.
+Secure. REST APIs can secure calls and data exchanges with Open Authorization (OAuth) authentication and Secure Sockets Layer/Transport Layer Security encryption.
+Compatible. Proper use of versioning lets developers treat APIs as any other evolving software, adding new features over time with backward compatibility and support of legacy features for existing clients.

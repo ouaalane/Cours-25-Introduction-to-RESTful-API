@@ -1,0 +1,8 @@
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\bin\Debug\6-Example Message Box.exe.config
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\bin\Debug\6-Example Message Box.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\bin\Debug\6-Example Message Box.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\obj\Debug\6-Example Message Box.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\obj\Debug\6-Example Message Box.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\obj\Debug\6-Example Message Box.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\obj\Debug\6-Example Message Box.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\1-Win32 API's\6-Example Message Box\obj\Debug\6-Example Message Box.exe.config

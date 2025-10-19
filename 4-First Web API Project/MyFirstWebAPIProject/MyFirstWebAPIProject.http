@@ -1,0 +1,6 @@
+@MyFirstWebAPIProject_HostAddress = http://localhost:7197
+
+GET {{MyFirstWebAPIProject_HostAddress}}/api/MyFirstApi
+Accept: text/plain
+
+###

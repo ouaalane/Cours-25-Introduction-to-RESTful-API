@@ -1,0 +1,15 @@
+To control the volume of the sound in a Windows application using C#, you can use the coreaudioapi which is part of the Windows API. This approach involves interacting with the system's audio session to adjust the volume levels.
+
+Here's a basic example of how to increase the volume using C#. You'll need to add a reference to the CoreAudioApi which is available through the NAudio package, a popular .NET audio library.
+
+First, you'll need to install the NAudio package if you haven't already:
+
+Install-Package NAudio
+
+
+The command Install-Package NAudio is used in the Package Manager Console within Visual Studio. Here’s how you can run it:
+
+Open Visual Studio: Start Visual Studio and open your project.
+Open Package Manager Console: Go to the menu bar, click on Tools, then NuGet Package Manager, and select Package Manager Console. This will open a console window at the bottom or side of your Visual Studio window.
+Install the Package: Type Install-Package NAudio into the console and press Enter. This will download and install the NAudio package into your project.
+This will set up the NAudio library in your project, allowing you to use its functionalities for managing audio, such as controlling the volume.
