@@ -418,10 +418,10 @@ C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

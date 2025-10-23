@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\programming advice\\cours-25-introduction-to-restful-api\\5-student api project\\studentapiserver\\myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\programming advice\\cours-25-introduction-to-restful-api\\5-student api project\\studentapiserver\\myfirstrestapi_porject\\datasimulation\\studentdatasimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\datasimulation\\studentdatasimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\programming advice\\cours-25-introduction-to-restful-api\\5-student api project\\studentapiserver\\myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|c:\\programming advice\\cours-25-introduction-to-restful-api\\5-student api project\\studentapiserver\\myfirstrestapi_porject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentAPIController.cs",
               "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
               "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
               "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
               "RelativeToolTip": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T08:59:24.193Z",
               "EditorCaption": ""
@@ -59,18 +59,17 @@
               "RelativeToolTip": "MyFirstRestAPI_Porject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T08:59:19.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T08:59:19.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentDataSimulation.cs",
               "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
               "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
               "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
               "RelativeToolTip": "MyFirstRestAPI_Porject\\DataSimulation\\StudentDataSimulation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T08:56:40.435Z",
               "EditorCaption": ""

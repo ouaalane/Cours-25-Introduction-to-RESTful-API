@@ -21,10 +21,13 @@ partial class Program
 
     public static async Task Main(string[] args)
     {
-        
-        httpClient.BaseAddress = new Uri("http://localhost:5215/api/Students");
+        httpClient.BaseAddress = new Uri("http://localhost:5215/api/Students/");
+
+
 
         await GetAllStudents();
+
+        await GetPassedStudents();
 
 
 
@@ -38,20 +41,56 @@ partial class Program
     }
 
 
+    public static async Task GetPassedStudents()
+    {
+        Console.WriteLine("\n----------------------------------------\n");
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Fetching Passed Students  ... ");
+        Console.ForegroundColor = ConsoleColor.White;
+
+
+        try
+        {
+            var PassedStudents =  await httpClient.GetFromJsonAsync<List<Student>>("Passed");
+
+            if (PassedStudents != null)
+            {
+                foreach (var student in PassedStudents)
+                {
+                    Console.WriteLine($"Student ID {student.Id} , Name : {student.Name} , Age : {student.Age}");
+
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(ex.Message);
+            Console.ForegroundColor = ConsoleColor.White;
+            
+        }
+        
+
+        
+    }
+
+
     public static   async Task GetAllStudents()
     {
+
         
         try
         {
+           
 
             Console.WriteLine("\n------------------------------------------------------\n");
 
-            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\nFeatching Students ......\n");
 
             Console.ForegroundColor = ConsoleColor.White;
 
-            var Students = await httpClient.GetFromJsonAsync<List<Student>>("");
+            var Students = await httpClient.GetFromJsonAsync<List<Student>>("All");
 
             if (Students!=null)
             {
@@ -65,11 +104,16 @@ partial class Program
         }
         catch(Exception ex)
         {
-            Console.WriteLine( "An Error Accured :(" + ex.Message);
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(ex.Message);
+            Console.ForegroundColor = ConsoleColor.White;
+
+
         }
-       
-       
-        
+
+
+
 
 
     }
