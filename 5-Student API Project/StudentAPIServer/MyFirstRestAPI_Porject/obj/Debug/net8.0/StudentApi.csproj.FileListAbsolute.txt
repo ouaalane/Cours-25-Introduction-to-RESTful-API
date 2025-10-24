@@ -425,3 +425,39 @@ C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
 C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.staticwebassets.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll

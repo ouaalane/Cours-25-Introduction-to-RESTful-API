@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIClient\\",
+  "WorkspaceRootPath": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85EB8186-E180-4197-90B2-5F558488CE57}|StudentAPIClient\\StudentAPIClient.csproj|c:\\programming advice\\cours-25-introduction-to-restful-api\\5-student api project\\studentapiclient\\studentapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85EB8186-E180-4197-90B2-5F558488CE57}|StudentAPIClient\\StudentAPIClient.csproj|c:\\programming advice\\cours-25-introduction to restful api\\5-student api project\\studentapiclient\\studentapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85EB8186-E180-4197-90B2-5F558488CE57}|StudentAPIClient\\StudentAPIClient.csproj|solutionrelative:studentapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +18,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -26,19 +26,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIClient\\StudentAPIClient\\Program.cs",
+              "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIClient\\StudentAPIClient\\Program.cs",
               "RelativeDocumentMoniker": "StudentAPIClient\\Program.cs",
-              "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIClient\\StudentAPIClient\\Program.cs",
-              "RelativeToolTip": "StudentAPIClient\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv1cAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIClient\\StudentAPIClient\\Program.cs*",
+              "RelativeToolTip": "StudentAPIClient\\Program.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:26:49.283Z",
+              "WhenOpened": "2025-10-23T20:38:16.724Z",
               "EditorCaption": ""
             }
           ]

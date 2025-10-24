@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj": {}
+    "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj": {}
   },
   "projects": {
-    "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj": {
+    "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj",
+        "projectUniqueName": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj",
         "projectName": "StudentApi",
-        "projectPath": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming Advice\\Cours-25-Introduction-to-RESTful-API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\obj\\",
+        "projectPath": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\StudentApi.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\5-Student API Project\\StudentAPIServer\\MyFirstRestAPI_Porject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
