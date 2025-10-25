@@ -1,0 +1,550 @@
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\01 FirstProject\MyFirstRestAPI_Porject\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\02 StudentAPI v2\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\03 StudentAPI v3\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 Server\Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\old 01 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\14 CRUD Simulation Porjects\01 Student API Project v1\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final Complete CRUD\01 Student API Project v1 - Get\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\Web\WebAPI Course\01 WebAPI\Final CRUD\03 Student API Project\01 Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.staticwebassets.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project v1 - Get ALL\01 StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.staticwebassets.endpoints.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project v1 - Get ALL\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.staticwebassets.endpoints.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction-to-RESTful-API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.staticwebassets.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\5-Student API Project\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.Development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\appsettings.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.staticwebassets.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.exe
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.deps.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Azure.Core.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.ClientModel.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentBuisnessLayer.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentDataAcessLayer.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentDTOs.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentDTOs.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentBuisnessLayer.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\StudentDataAcessLayer.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.csproj.Up2Date
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\refint\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll

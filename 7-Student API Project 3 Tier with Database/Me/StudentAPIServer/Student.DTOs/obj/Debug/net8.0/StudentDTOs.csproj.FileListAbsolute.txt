@@ -1,0 +1,12 @@
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\bin\Debug\net8.0\StudentDTOs.deps.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\bin\Debug\net8.0\StudentDTOs.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\bin\Debug\net8.0\StudentDTOs.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.AssemblyInfoInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.AssemblyInfo.cs
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.csproj.CoreCompileInputs.cache
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.sourcelink.json
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\refint\StudentDTOs.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\StudentDTOs.pdb
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\Student.DTOs\obj\Debug\net8.0\ref\StudentDTOs.dll
