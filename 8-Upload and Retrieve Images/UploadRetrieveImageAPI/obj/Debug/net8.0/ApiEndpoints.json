@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "UploadRetrieveImageAPI.Controllers.ImageUploadRetrieveController",
+    "Method": "UploadImage",
+    "RelativePath": "api/ImageUploadRetrieve",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Imagefile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UploadRetrieveImageAPI.Controllers.ImageUploadRetrieveController",
+    "Method": "GetImage",
+    "RelativePath": "api/ImageUploadRetrieve/GetImage/{filename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

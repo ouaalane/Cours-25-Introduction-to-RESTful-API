@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadRetrieveVidioAPI", "UploadRetrieveVidioAPI.csproj", "{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63689F63-A704-4B9A-A6DF-07DE5E68F4F3}
+	EndGlobalSection
+EndGlobal
