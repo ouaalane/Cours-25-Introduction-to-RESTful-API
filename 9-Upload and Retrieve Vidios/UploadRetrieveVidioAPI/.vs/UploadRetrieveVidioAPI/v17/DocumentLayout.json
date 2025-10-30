@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\9-Upload and Retrieve Vidios\\UploadRetrieveVidioAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}|UploadRetrieveVidioAPI.csproj|c:\\programming advice\\cours-25-introduction to restful api\\9-upload and retrieve vidios\\uploadretrievevidioapi\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBCDBDF8-BB55-479C-9FD6-5B1084B00E8A}|UploadRetrieveVidioAPI.csproj|solutionrelative:controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,12 +34,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP4UAAAAAAAAAAAuwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-27T21:50:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VideoController.cs",
               "DocumentMoniker": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\9-Upload and Retrieve Vidios\\UploadRetrieveVidioAPI\\Controllers\\VideoController.cs",
               "RelativeDocumentMoniker": "Controllers\\VideoController.cs",
               "ToolTip": "C:\\Programming Advice\\Cours-25-Introduction to RESTful API\\9-Upload and Retrieve Vidios\\UploadRetrieveVidioAPI\\Controllers\\VideoController.cs",
               "RelativeToolTip": "Controllers\\VideoController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAUwGoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAGkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T20:26:53.233Z",
               "EditorCaption": ""

@@ -6,12 +6,17 @@ using Student.DTOs;
 using StudentBuisnessLayer;
 using StudentDataAccessLayer;
 using System.Data;
+using Asp.Versioning;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.RateLimiting;
 
 namespace StudentApi.Controllers 
 {
+
+    [ApiVersion(1,Deprecated =false)]
     [ApiController] // Marks the class as a Web API controller with enhanced features.
    // [Route("[controller]")] // Sets the route for this controller to "students", based on the controller name.
-    [Route("api/Students")]
+    [Route("api/v{v:apiVersion}/Students")]
 
     public class StudentsController : ControllerBase // Declare the controller class inheriting from ControllerBase.
     {
@@ -20,10 +25,14 @@ namespace StudentApi.Controllers
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]
         
-        public ActionResult<IEnumerable<StudentDTO>> GetAllStudents() // Define a method to get all students.
+
+        // pagination , filtring,sorting & seraching
+        // 
+        public ActionResult<IEnumerable<StudentDTO>> GetAllStudents([FromQuery] int PageNumber,[FromQuery]int PageSize) // Define a method to get all students.
         {
 
             var StudentsList = clsStudent.GetAllStudents();
+            StudentsList = StudentsList.Skip((PageNumber - 1) * PageSize).Take(PageSize).ToList();
             if (StudentsList.Count==0)
             {
                 return NotFound("No student available");
@@ -32,6 +41,10 @@ namespace StudentApi.Controllers
         }
 
 
+
+
+      
+        [EnableRateLimiting("fixed")]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [HttpGet("Passed", Name = "GetPassedStudents")]
@@ -121,6 +134,8 @@ namespace StudentApi.Controllers
 
 
 
+      
+
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -140,6 +155,9 @@ namespace StudentApi.Controllers
 
 
 
+
+    
+        
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -178,4 +196,11 @@ namespace StudentApi.Controllers
         }
 
     }
+
+
+
+
+ 
+
+
 }

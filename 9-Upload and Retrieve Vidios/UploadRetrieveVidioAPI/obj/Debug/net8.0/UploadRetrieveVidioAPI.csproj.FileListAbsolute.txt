@@ -27,10 +27,10 @@ C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\UploadRe.13EB21AE.Up2Date
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\UploadRetrieveVidioAPI.dll
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\refint\UploadRetrieveVidioAPI.dll
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\UploadRetrieveVidioAPI.pdb
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\UploadRetrieveVidioAPI.genruntimeconfig.cache
 C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\ref\UploadRetrieveVidioAPI.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\9-Upload and Retrieve Vidios\UploadRetrieveVidioAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

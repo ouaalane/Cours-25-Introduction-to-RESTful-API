@@ -1,2 +1,259 @@
 1-use Data annotation attributes for proper validation rules  and generate api documentation
 2-
+
+
+REST API Design Best Practices in .NET Core
+Here are the essential best practices for designing RESTful APIs in .NET Core:
+1. Resource Naming & URI Structure
+
+Use plural nouns for resources: /api/customers, /api/orders
+Use hierarchical structure for relationships: /api/customers/{id}/orders
+Keep URLs lowercase and use hyphens for readability: /api/order-items
+Avoid verbs in URIs (use HTTP methods instead)
+
+csharp// Good
+[HttpGet("api/customers/{id}/orders")]
+
+// Bad
+[HttpGet("api/getCustomerOrders/{id}")]
+2. HTTP Methods (Verbs)
+Use appropriate HTTP verbs:
+
+GET: Retrieve resources (idempotent, safe)
+POST: Create new resources
+PUT: Update entire resource (idempotent)
+PATCH: Partial update
+DELETE: Remove resources (idempotent)
+
+csharp[HttpGet("{id}")]
+public async Task<ActionResult<Customer>> GetCustomer(int id)
+
+[HttpPost]
+public async Task<ActionResult<Customer>> CreateCustomer(Customer customer)
+
+[HttpPut("{id}")]
+public async Task<IActionResult> UpdateCustomer(int id, Customer customer)
+
+[HttpDelete("{id}")]
+public async Task<IActionResult> DeleteCustomer(int id)
+3. HTTP Status Codes
+Return appropriate status codes:
+
+200 OK: Successful GET, PUT, PATCH
+201 Created: Successful POST (include Location header)
+204 No Content: Successful DELETE or update with no response body
+400 Bad Request: Invalid input
+401 Unauthorized: Authentication required
+403 Forbidden: Authenticated but not authorized
+404 Not Found: Resource doesn't exist
+409 Conflict: Conflict with current state
+500 Internal Server Error: Server errors
+
+csharp[HttpPost]
+public async Task<ActionResult<Customer>> CreateCustomer(Customer customer)
+{
+    var created = await _service.CreateAsync(customer);
+    return CreatedAtAction(nameof(GetCustomer), new { id = created.Id }, created);
+}
+
+[HttpGet("{id}")]
+public async Task<ActionResult<Customer>> GetCustomer(int id)
+{
+    var customer = await _service.GetByIdAsync(id);
+    if (customer == null)
+        return NotFound();
+    
+    return Ok(customer);
+}
+4. Versioning
+Implement API versioning from the start:
+csharp// Install: Microsoft.AspNetCore.Mvc.Versioning
+
+services.AddApiVersioning(options =>
+{
+    options.DefaultApiVersion = new ApiVersion(1, 0);
+    options.AssumeDefaultVersionWhenUnspecified = true;
+    options.ReportApiVersions = true;
+});
+
+// URL versioning
+[ApiVersion("1.0")]
+[Route("api/v{version:apiVersion}/customers")]
+
+// Header versioning
+[Route("api/customers")]
+[ApiVersion("1.0")]
+5. Data Transfer Objects (DTOs)
+Never expose domain entities directly:
+csharppublic class CustomerDto
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string Email { get; set; }
+}
+
+public class CreateCustomerDto
+{
+    [Required]
+    [StringLength(100)]
+    public string Name { get; set; }
+    
+    [Required]
+    [EmailAddress]
+    public string Email { get; set; }
+}
+6. Validation
+Use data annotations and model validation:
+csharp[HttpPost]
+public async Task<ActionResult<Customer>> CreateCustomer([FromBody] CreateCustomerDto dto)
+{
+    if (!ModelState.IsValid)
+        return BadRequest(ModelState);
+    
+    // Process...
+}
+
+// Or use FluentValidation
+services.AddFluentValidation(fv => 
+    fv.RegisterValidatorsFromAssemblyContaining<CreateCustomerValidator>());
+7. Pagination
+Implement pagination for large collections:
+csharppublic class PagedResult<T>
+{
+    public List<T> Items { get; set; }
+    public int PageNumber { get; set; }
+    public int PageSize { get; set; }
+    public int TotalCount { get; set; }
+    public int TotalPages => (int)Math.Ceiling(TotalCount / (double)PageSize);
+}
+
+[HttpGet]
+public async Task<ActionResult<PagedResult<CustomerDto>>> GetCustomers(
+    [FromQuery] int pageNumber = 1, 
+    [FromQuery] int pageSize = 10)
+{
+    var result = await _service.GetPagedAsync(pageNumber, pageSize);
+    return Ok(result);
+}
+8. Filtering, Sorting & Searching
+csharp[HttpGet]
+public async Task<ActionResult<IEnumerable<CustomerDto>>> GetCustomers(
+    [FromQuery] string searchTerm,
+    [FromQuery] string sortBy = "name",
+    [FromQuery] bool descending = false)
+{
+    var customers = await _service.GetFilteredAsync(searchTerm, sortBy, descending);
+    return Ok(customers);
+}
+9. Error Handling
+Implement global exception handling:
+csharppublic class ErrorDetails
+{
+    public int StatusCode { get; set; }
+    public string Message { get; set; }
+    public string Details { get; set; }
+}
+
+public class GlobalExceptionMiddleware
+{
+    private readonly RequestDelegate _next;
+    
+    public async Task InvokeAsync(HttpContext context)
+    {
+        try
+        {
+            await _next(context);
+        }
+        catch (Exception ex)
+        {
+            await HandleExceptionAsync(context, ex);
+        }
+    }
+    
+    private static Task HandleExceptionAsync(HttpContext context, Exception exception)
+    {
+        context.Response.ContentType = "application/json";
+        context.Response.StatusCode = StatusCodes.Status500InternalServerError;
+        
+        return context.Response.WriteAsJsonAsync(new ErrorDetails
+        {
+            StatusCode = context.Response.StatusCode,
+            Message = "Internal Server Error",
+            Details = exception.Message
+        });
+    }
+}
+10. CORS Configuration
+csharpservices.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+        builder => builder
+            .WithOrigins("https://example.com")
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+});
+
+app.UseCors("AllowSpecificOrigin");
+11. Authentication & Authorization
+csharpservices.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options => { /* config */ });
+
+services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminOnly", policy => 
+        policy.RequireRole("Admin"));
+});
+
+[Authorize(Policy = "AdminOnly")]
+[HttpDelete("{id}")]
+public async Task<IActionResult> DeleteCustomer(int id)
+12. Response Compression
+csharpservices.AddResponseCompression(options =>
+{
+    options.EnableForHttps = true;
+    options.Providers.Add<GzipCompressionProvider>();
+});
+13. Rate Limiting
+csharp// .NET 7+
+services.AddRateLimiter(options =>
+{
+    options.AddFixedWindowLimiter("fixed", opt =>
+    {
+        opt.Window = TimeSpan.FromMinutes(1);
+        opt.PermitLimit = 100;
+    });
+});
+
+[EnableRateLimiting("fixed")]
+[HttpGet]
+public async Task<IActionResult> GetCustomers()
+14. Documentation with Swagger
+csharpservices.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo 
+    { 
+        Title = "My API", 
+        Version = "v1",
+        Description = "API Description"
+    });
+    
+    // Include XML comments
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    c.IncludeXmlComments(xmlPath);
+});
+15. Async/Await
+Always use async operations for I/O-bound work:
+csharp[HttpGet]
+public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
+{
+    var customers = await _repository.GetAllAsync();
+    return Ok(customers);
+}
+16. Dependency Injection
+Properly configure service lifetimes:
+csharpservices.AddScoped<ICustomerService, CustomerService>();
+services.AddScoped<ICustomerRepository, CustomerRepository>();
+services.AddSingleton<ICacheService, CacheService>();
+services.AddTransient<IEmailService, EmailService>();
+These practices will help you build maintainable, scalable, and production-ready REST APIs in .NET Core. Focus on consistency, clear documentation, and following RESTful principles throughout your API design.

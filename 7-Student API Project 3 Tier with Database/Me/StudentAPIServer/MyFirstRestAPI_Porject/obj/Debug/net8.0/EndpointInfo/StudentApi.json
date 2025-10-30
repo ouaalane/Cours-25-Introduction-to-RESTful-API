@@ -5,17 +5,35 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Students/All": {
+    "/api/v1/Students/All": {
       "get": {
         "tags": [
           "Students"
         ],
         "operationId": "GetAllStudents",
+        "parameters": [
+          {
+            "name": "PageNumber",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "PageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Success",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "type": "array",
                   "items": {
@@ -23,7 +41,7 @@
                   }
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "type": "array",
                   "items": {
@@ -31,7 +49,7 @@
                   }
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "type": "array",
                   "items": {
@@ -44,17 +62,17 @@
           "404": {
             "description": "Not Found",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -64,7 +82,7 @@
         }
       }
     },
-    "/api/Students/Passed": {
+    "/api/v1/Students/Passed": {
       "get": {
         "tags": [
           "Students"
@@ -74,17 +92,17 @@
           "404": {
             "description": "Not Found",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -97,7 +115,7 @@
         }
       }
     },
-    "/api/Students/AverageGrade": {
+    "/api/v1/Students/AverageGrade": {
       "get": {
         "tags": [
           "Students"
@@ -107,17 +125,17 @@
           "404": {
             "description": "Not Found",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -127,19 +145,19 @@
           "200": {
             "description": "Success",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "type": "number",
                   "format": "double"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "type": "number",
                   "format": "double"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "type": "number",
                   "format": "double"
@@ -150,7 +168,7 @@
         }
       }
     },
-    "/api/Students/{ID}": {
+    "/api/v1/Students/{id}": {
       "get": {
         "tags": [
           "Students"
@@ -158,7 +176,7 @@
         "operationId": "GetStudentByID",
         "parameters": [
           {
-            "name": "ID",
+            "name": "id",
             "in": "path",
             "required": true,
             "schema": {
@@ -171,17 +189,17 @@
           "200": {
             "description": "Success",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/StudentDTO"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/StudentDTO"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/StudentDTO"
                 }
@@ -191,17 +209,17 @@
           "404": {
             "description": "Not Found",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -211,17 +229,17 @@
           "400": {
             "description": "Bad Request",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -229,98 +247,7 @@
             }
           }
         }
-      }
-    },
-    "/api/Students": {
-      "post": {
-        "tags": [
-          "Students"
-        ],
-        "operationId": "AddNewStudent",
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/StudentAddDTO"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/StudentAddDTO"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/StudentAddDTO"
-              }
-            }
-          }
-        },
-        "responses": {
-          "201": {
-            "description": "Created",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/StudentDTO"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/StudentDTO"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/StudentDTO"
-                }
-              }
-            }
-          },
-          "400": {
-            "description": "Bad Request",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              }
-            }
-          },
-          "404": {
-            "description": "Not Found",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/api/Students/{id}": {
+      },
       "delete": {
         "tags": [
           "Students"
@@ -344,17 +271,17 @@
           "400": {
             "description": "Bad Request",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -364,17 +291,17 @@
           "404": {
             "description": "Not Found",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -401,17 +328,17 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "application/json; v=1.0": {
               "schema": {
                 "$ref": "#/components/schemas/StudentAddDTO"
               }
             },
-            "text/json": {
+            "text/json; v=1.0": {
               "schema": {
                 "$ref": "#/components/schemas/StudentAddDTO"
               }
             },
-            "application/*+json": {
+            "application/*+json; v=1.0": {
               "schema": {
                 "$ref": "#/components/schemas/StudentAddDTO"
               }
@@ -422,17 +349,17 @@
           "200": {
             "description": "Success",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/StudentDTO"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/StudentDTO"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/StudentDTO"
                 }
@@ -442,17 +369,17 @@
           "400": {
             "description": "Bad Request",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
@@ -465,17 +392,106 @@
           "404": {
             "description": "Not Found",
             "content": {
-              "text/plain": {
+              "text/plain; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "application/json": {
+              "application/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }
               },
-              "text/json": {
+              "text/json; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/Students": {
+      "post": {
+        "tags": [
+          "Students"
+        ],
+        "operationId": "AddNewStudent",
+        "requestBody": {
+          "content": {
+            "application/json; v=1.0": {
+              "schema": {
+                "$ref": "#/components/schemas/StudentAddDTO"
+              }
+            },
+            "text/json; v=1.0": {
+              "schema": {
+                "$ref": "#/components/schemas/StudentAddDTO"
+              }
+            },
+            "application/*+json; v=1.0": {
+              "schema": {
+                "$ref": "#/components/schemas/StudentAddDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "text/plain; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/StudentDTO"
+                }
+              },
+              "application/json; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/StudentDTO"
+                }
+              },
+              "text/json; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/StudentDTO"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json; v=1.0": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json; v=1.0": {
                 "schema": {
                   "$ref": "#/components/schemas/ProblemDetails"
                 }

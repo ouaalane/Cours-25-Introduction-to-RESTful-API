@@ -2,7 +2,7 @@
   {
     "ContainingType": "StudentApi.Controllers.StudentsController",
     "Method": "AddNewStudent",
-    "RelativePath": "api/Students",
+    "RelativePath": "api/v1/Students",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,27 +17,27 @@
       {
         "Type": "Student.DTOs.StudentDTO",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 201
       },
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 400
       },
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 404
       }
@@ -46,8 +46,53 @@
   },
   {
     "ContainingType": "StudentApi.Controllers.StudentsController",
+    "Method": "GetStudentByID",
+    "RelativePath": "api/v1/Students/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Student.DTOs.StudentDTO",
+        "MediaTypes": [
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "GetStudentByID"
+  },
+  {
+    "ContainingType": "StudentApi.Controllers.StudentsController",
     "Method": "DeleteStudent",
-    "RelativePath": "api/Students/{id}",
+    "RelativePath": "api/v1/Students/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -67,18 +112,18 @@
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 400
       },
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 404
       }
@@ -88,7 +133,7 @@
   {
     "ContainingType": "StudentApi.Controllers.StudentsController",
     "Method": "UpdateStudent",
-    "RelativePath": "api/Students/{id}",
+    "RelativePath": "api/v1/Students/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -108,18 +153,18 @@
       {
         "Type": "Student.DTOs.StudentDTO",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 200
       },
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 400
       },
@@ -131,9 +176,9 @@
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 404
       }
@@ -142,73 +187,39 @@
   },
   {
     "ContainingType": "StudentApi.Controllers.StudentsController",
-    "Method": "GetStudentByID",
-    "RelativePath": "api/Students/{ID}",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/v1/Students/All",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "ID",
+        "Name": "PageNumber",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Student.DTOs.StudentDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "IsRequired": false
       },
       {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 404
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
-    "EndpointName": "GetStudentByID"
-  },
-  {
-    "ContainingType": "StudentApi.Controllers.StudentsController",
-    "Method": "GetAllStudents",
-    "RelativePath": "api/Students/All",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[Student.DTOs.StudentDTO, StudentDTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 200
       },
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 404
       }
@@ -218,7 +229,7 @@
   {
     "ContainingType": "StudentApi.Controllers.StudentsController",
     "Method": "GetAverageGrade",
-    "RelativePath": "api/Students/AverageGrade",
+    "RelativePath": "api/v1/Students/AverageGrade",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -227,18 +238,18 @@
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 404
       },
       {
         "Type": "System.Double",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 200
       }
@@ -248,7 +259,7 @@
   {
     "ContainingType": "StudentApi.Controllers.StudentsController",
     "Method": "GetPassedStudents",
-    "RelativePath": "api/Students/Passed",
+    "RelativePath": "api/v1/Students/Passed",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -257,9 +268,9 @@
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "text/plain; v=1.0",
+          "application/json; v=1.0",
+          "text/json; v=1.0"
         ],
         "StatusCode": 404
       },

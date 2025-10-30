@@ -548,3 +548,7 @@ C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project
 C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.pdb
 C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
 C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Programming Advice\Cours-25-Introduction to RESTful API\7-Student API Project 3 Tier with Database\Me\StudentAPIServer\MyFirstRestAPI_Porject\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
